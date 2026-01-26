@@ -1,74 +1,72 @@
 {
-  "Pro": {
-    "2": {
-      "Priorize": [
-        "dz",
-        "nk",
-        "nq",
-        "gd",
-        "fs",
-        "fd",
-        "yc",
-        "bk",
-        "sz",
-        "ku",
-        "ph",
-        "mg",
-        "hl",
-        "vy",
-        "rg",
-        "ez",
-      ],
-      "Extra": [
-        "tz",
-        "xo",
-        "gn",
-        "sb",
-        "ly",
-        "gy",
-        "rw"
-      ]
-    },
-    "3": {
-      "Priorize": [
-        "yic",
-        "eee",
-        "nse",
-        "gly",
-        "ary",
-        "ian",
-        "ism",,
-        "ity",
-        "ork",
-        "nne",
-        "aws",
-        "nah",
-        "smr",
-        "oic",
-        "ojo",
-        "cch",
-      ],
-      "Extra": [
-        "aku",
-        "tzi",
-        "tze",
-        "ely",
-        "ogy",
-      ]
-    },
-    "4": {
-      "Priorize": [
-        "arah",
-        "aruh",
-        "galy",
-        "hoic",
-        "tcha",
-        "tiah",
-      ],
-      "Extra": [
-        "aphy",
-        "taph"
-      ]
-    }
+  "2": {
+    "Priorize": [
+      "dz",
+      "nk",
+      "nq",
+      "gd",
+      "fs",
+      "fd",
+      "yc",
+      "bk",
+      "sz",
+      "ku",
+      "ph",
+      "mg",
+      "hl",
+      "vy",
+      "rg",
+      "ez"
+    ],
+    "Extra": [
+      "tz",
+      "xo",
+      "gn",
+      "sb",
+      "ly",
+      "gy",
+      "rw"
+    ]
+  },
+  "3": {
+    "Priorize": [
+      "yic",
+      "eee",
+      "nse",
+      "gly",
+      "ary",
+      "ian",
+      "ism",
+      "ity",
+      "ork",
+      "nne",
+      "aws",
+      "nah",
+      "smr",
+      "oic",
+      "ojo",
+      "cch"
+    ],
+    "Extra": [
+      "aku",
+      "tzi",
+      "tze",
+      "ely",
+      "ogy"
+    ]
+  },
+  "4": {
+    "Priorize": [
+      "arah",
+      "aruh",
+      "galy",
+      "hoic",
+      "tcha",
+      "tiah"
+    ],
+    "Extra": [
+      "aphy",
+      "taph"
+    ]
   }
 }
