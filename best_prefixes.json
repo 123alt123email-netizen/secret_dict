@@ -1,41 +1,42 @@
 {
   "2": {
-    "Priorize": [
+    "1": [
       "dz",
-      "nk",
       "nq",
-      "fh",
       "gd",
       "fs",
       "fd",
       "yc",
       "bk",
       "sz",
-      "ku",
       "mg",
       "hl",
       "vy",
       "rg",
       "ez",
-      "lw"
+      "fh"
     ],
-    "Extra": [
+    "2": [
+      "ku",
+      "nk",
+      "sb",
+      "ky",
+    ],
+    "3": [
+      "ph",
       "tz",
       "xo",
       "gn",
-      "sb",
       "ly",
-      "ky",
       "gy"
     ]
   },
   "3": {
-    "Priorize": [
+    "1": [
       "dii",
       "yic",
       "eee",
       "nse",
-      "ary",
       "ity",
       "ork",
       "nne",
@@ -50,23 +51,26 @@
       "ehl",
       "uhl",
       "ojo",
-      "cch"
-    ],
-    "Extra": [
-      "ism",
-      "ian",
-      "aic",
-      "gly",
+      "cch",
       "avy",
-      "aku",
+      "aic",
+      "ian"
+    ],
+    "2": [
+      "ary",
       "tzi",
-      "tze",
       "ely",
-      "ogy"
+      "ogy",
+      "aku",
+      "ism"
+    ],
+    "3": [
+      "tze",
+      "gly",
     ]
   },
   "4": {
-    "Priorize": [
+    "1": [
       "arah",
       "aruh",
       "galy",
@@ -79,15 +83,12 @@
       "oick",
       "aidi"
     ],
-    "Extra": [
-      "aphy",
-      "taph",
-      "ness"
+    "2": [
+      "ness",
+      "taph"
+    ],
+    "3": [
+      "aphy"
     ]
   }
 }
-
-
-
-
-
