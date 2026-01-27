@@ -47,6 +47,8 @@
       "msa",
       "ugg",
       "oic",
+      "ehl",
+      "uhl",
       "ojo",
       "cch"
     ],
@@ -79,10 +81,12 @@
     ],
     "Extra": [
       "aphy",
-      "taph"
+      "taph",
+      "ness"
     ]
   }
 }
+
 
 
 
