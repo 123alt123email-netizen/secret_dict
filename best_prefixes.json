@@ -11,12 +11,12 @@
       "bk",
       "sz",
       "ku",
-      "ph",
       "mg",
       "hl",
       "vy",
       "rg",
-      "ez"
+      "ez",
+      "lw"
     ],
     "Extra": [
       "tz",
@@ -25,31 +25,36 @@
       "sb",
       "ly",
       "ky",
-      "gy",
-      "rw"
+      "gy"
     ]
   },
   "3": {
     "Priorize": [
+      "dii",
       "yic",
       "eee",
       "nse",
-      "gly",
       "ary",
-      "ian",
-      "ism",
       "ity",
       "ork",
       "nne",
       "aws",
+      "eal",
       "nah",
       "smr",
-      "avy",
+      "ahn",
+      "msa",
+      "ugg",
       "oic",
       "ojo",
       "cch"
     ],
     "Extra": [
+      "ism",
+      "ian",
+      "aic",
+      "gly",
+      "avy",
       "aku",
       "tzi",
       "tze",
@@ -62,9 +67,12 @@
       "arah",
       "aruh",
       "galy",
-      "hoic",
+      "amsa",
+      "tral",
       "tcha",
       "tiah",
+      "mekh",
+      "ower",
       "oick",
       "aidi"
     ],
@@ -74,5 +82,6 @@
     ]
   }
 }
+
 
 
