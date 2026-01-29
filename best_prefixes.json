@@ -35,21 +35,23 @@
     ]
   },
   "3": {
-    "1": [
+    "0": [
       "yli",
+      "ymp",
       "ojo",
+      "dii",
+      "azl"
+    ],
+    "1": [
       "ehl",
       "uhl",
       "ugg",
-      "ymp",
       "nne",
-      "dii",
       "eka",
       "ogl",
       "ghu",
       "qib",
       "mei",
-      "azl",
       "uig"
     ],
     "2": [
@@ -85,14 +87,17 @@
     ]
   },
   "4": {
+    "0": [
+      "naka",
+      "lons",
+      "oles",
+      "arah",
+      "aruh"
+    ],
     "1": [
       "okan",
-      "naka",
-      "arah",
-      "aruh",
       "tely",
       "prez",
-      "lons",
       "iten",
       "krit",
       "caxi",
@@ -125,6 +130,7 @@
     ]
   }
 }
+
 
 
 
