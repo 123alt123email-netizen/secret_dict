@@ -13,6 +13,7 @@
   "pd": 2,
   "bh": 2,
   "dg": 2,
+  "yf": 2,
 
   "gd": 3,
   "fd": 3,
@@ -123,7 +124,11 @@
   "ugru": 1,
   "maea": 1,
   "kens": 1,
+  "kost": 1,
+  "akis": 1,
+  "helt": 1,
 
+  "ipal": 2,
   "pyle": 2,
   "eise": 2,
   "phes": 2,
@@ -147,6 +152,7 @@
   "hore": 3,
   "zoid": 3,
   "acea": 3,
+  "mies": 3,
   "nier": 3,
   
   "oble": 4,
@@ -179,6 +185,7 @@
   "ness": 7
 
 }
+
 
 
 
