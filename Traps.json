@@ -67,10 +67,14 @@
   "zas": 2,
   "esi": 2,
   "gah": 2,
+  "alx": 2,
+  "zha": 2,
 
+  "eot": 3,
   "ugs": 3,
   "oks": 3,
   "dii": 3,
+  "xia": 3,
   "qib": 3,
   "ghu": 3,
 
@@ -126,6 +130,7 @@
   "maea": 1,
   "kens": 1,
   "kost": 1,
+  "flaj": 1,
   "akis": 1,
   "helt": 1,
 
@@ -134,12 +139,10 @@
   "eise": 2,
   "phes": 2,
   "lawa": 2,
-  "azer": 2,
   "stes": 2,
   "omme": 2,
   "olet": 2,
   "gean": 2,
-  "lois": 2,
   "ksha": 2,
   "unny": 2,
   "omos": 2,
@@ -186,6 +189,7 @@
   "ness": 7
 
 }
+
 
 
 
