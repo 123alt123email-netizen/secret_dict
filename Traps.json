@@ -6,6 +6,8 @@
   "pw": 1,
   "zl": 1,
   "pb": 1,
+  "mv": 1,
+  "ys": 1,
   
   "gm": 2,
   "rw": 2,
@@ -49,13 +51,13 @@
   "yli": 1,
   "ymp": 1,
   "ojo": 1,
-  "azl": 1,
   "xal": 1,
   "urr": 1,
   "yim": 1,
   "qra": 1,
   "ipa": 1,
   "efl": 1,
+  "iru": 1,
 
   "kly": 2,
   "ils": 2,
@@ -69,6 +71,7 @@
   "gah": 2,
   "alx": 2,
   "zha": 2,
+  "azl": 2,
 
   "eot": 3,
   "ugs": 3,
@@ -124,16 +127,20 @@
   "gly": 9,
   
   "naka": 1,
-  "lons": 1,
-  "xion": 1,
   "ugru": 1,
   "maea": 1,
-  "kens": 1,
   "kost": 1,
   "flaj": 1,
   "akis": 1,
   "helt": 1,
+  "etra": 1,
+  "hoja": 1,
+  "emal": 1,
+  "erva": 1,
+  "pnic": 1,
+  "darm": 1,
 
+  "xion": 2,
   "ipal": 2,
   "pyle": 2,
   "eise": 2,
@@ -149,6 +156,7 @@
   "nars": 2,
   "nyan": 2,
 
+  "lons": 3,
   "khya": 3,
   "vely": 3,
   "otor": 3,
@@ -189,6 +197,7 @@
   "ness": 7
 
 }
+
 
 
 
